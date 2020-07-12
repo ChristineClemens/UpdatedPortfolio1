@@ -1,0 +1,73 @@
+h1 {
+    font-size: 7vw;
+}
+h2 {
+    font-size: 5vw;
+}
+#funFacts {
+    font-family: "Permanent Marker", cursive;
+}
+.jumbotron-image {
+    background-image: url(https://raw.githubusercontent.com/ChristineClemens/Homework02/master/assets/jumbotron-image.jpg);
+    background-size: cover;
+    background-position: center; 
+}
+a:hover {
+    color: white;
+}
+a.btn:hover {
+    color: rgb(147,230,206);
+}
+
+
+
+.caveatFont {
+    font-family: "Caveat", cursive;
+}
+.permanentMarkerFont {
+    font-family: "Permanent Marker", cursive;
+}
+.tealText {
+    color: rgb(147,230,206);
+}
+
+
+
+.card-img-top {
+    width: 100%;
+    height: 15vw;
+    object-fit: contain;
+}
+.cardLabel {
+    font-family: "Permanent Marker", cursive;
+    background-color: rgb(147,230,206);
+    border-radius: 15px 0 15px 0;
+    padding: 10px 0 10px 0;
+}
+
+
+
+.map-container-section {
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+}
+.map-container-section iframe {
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+}
+
+
+
+footer {
+    position: fixed;
+    bottom: 25px;
+    left: 0px;
+    height: 20px;
+    width: 100%;
+    opacity: 0.6;
+}
