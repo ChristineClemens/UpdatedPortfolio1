@@ -1,9 +1,9 @@
 # Updated Portfolio (Version 2)
-# Homework02
-Christine Clemens - Second Homework Submission for SCS Coding Bootcamp
 
 ### Objective:
-   To develop a responsive portfolio website that included an "About", "Portfolio", and "Contact" webpage along with my personalized information. Likewise, this project was an opportunity for me to apply the HTML5, CSS3 styling, Bootstrap scaffolding, and typography know-how developed this week in class. The ultimate goal of this website will be to update it intermittently throughout the course of Bootcamp to apply new knowledge, ultimately resulting in a fully developed user-friendly portfolio website.     
+   To further develop a responsive portfolio website that included an "About", "Portfolio", and "Contact" webpage along with my personalized information. Likewise, this project was an opportunity for me to apply the HTML5, CSS3 styling, Bootstrap scaffolding, and typography know-how developed previously in class. The ultimate goal of this website will be to update it intermittently throughout the course of Bootcamp to apply new knowledge, ultimately resulting in a fully developed user-friendly portfolio website.     
+
+![alt text](./assets/Preview.PNG)
 
 ### For this assignment, I was required to:
 * Use Bootstrap to develop a stylized portfolio website
@@ -22,8 +22,15 @@ Christine Clemens - Second Homework Submission for SCS Coding Bootcamp
 * Semantic HTML tags
 * Personalized information
 * Bootstrap components
+* Links to my GitHub profile and LinkedIn page
+* Personal contact information including email and phone
+* An updated sampling of completed projects that include a title, image, deployed application link, and repository link with functioning links
+* Mobile-first adjustments
+* Application of a colour scheme that polishes the overall design
+* Appropriate font size and colour choices
+* An updated resume that may be accessed from my web page
+* A customized GitHub profile
 
-### Additionally, I was encouraged to:
-* A sticky footer, sub-rows, and sub-columns using Bootstrap documentation
 
-*I did not include personalized information at this time as I did not feel comfortable including too many of my personal details; however, I did employ lorem ipsum text in its place so that I am able to add this information at a later time. 
+**GitHub Repository:** https://github.com/ChristineClemens/UpdatedPortfolio1      
+**Deployed Application:** https://christineclemens.github.io/UpdatedPortfolio1/
